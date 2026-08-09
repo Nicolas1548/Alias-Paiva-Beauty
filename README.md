@@ -7,12 +7,12 @@ Sobre o site
 Uma página única, pensada para apresentar o trabalho da Alias e facilitar o agendamento de clientes. O visual segue uma paleta em lilás delicado com detalhes dourados, tipografia serifada elegante e uma mariposa como símbolo de marca.
 
 O que tem na página
-Início — apresentação com foto em destaque e frase de posicionamento: "Especialista em transformar a sua autoestima"\n
-Sobre — um pouco da história e do cuidado por trás do trabalho, com foto do estúdio\n
-Serviços — extensão de cílios fio a fio e design de sobrancelhas\n
-Galeria — fotos reais de resultados feitos no estúdio\n
-Agendamento — botões espalhados pela página que levam direto para o WhatsApp, além do link do Instagram\n
-Detalhes\n
-Totalmente responsivo, funciona bem em celular, tablet e computador\n
-Ícone personalizado (a mariposa da marca) na aba do navegador\n
-Botão de WhatsApp já com mensagem pronta para a cliente só confirmar o envio\n
+\nInício — apresentação com foto em destaque e frase de posicionamento: "Especialista em transformar a sua autoestima"
+\nSobre — um pouco da história e do cuidado por trás do trabalho, com foto do estúdio
+\nServiços — extensão de cílios fio a fio e design de sobrancelhas
+\nGaleria — fotos reais de resultados feitos no estúdio
+\nAgendamento — botões espalhados pela página que levam direto para o WhatsApp, além do link do Instagram
+Detalhes
+\nTotalmente responsivo, funciona bem em celular, tablet e computador\n
+\nÍcone personalizado (a mariposa da marca) na aba do navegador\n
+\nBotão de WhatsApp já com mensagem pronta para a cliente só confirmar o envio
