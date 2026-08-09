@@ -215,15 +215,6 @@
     position:absolute; inset:0;
     background:linear-gradient(180deg, transparent 55%, rgba(43,30,51,0.55) 100%);
   }
-  .hero-photo-caption{
-    position:absolute;
-    left:20px; bottom:18px;
-    z-index:2;
-    color:#fff;
-    font-family:'Caveat', cursive;
-    font-size:1.5rem;
-    font-weight:600;
-  }
   @keyframes kenburns{
     0%{ transform:scale(1); }
     100%{ transform:scale(1.06); }
