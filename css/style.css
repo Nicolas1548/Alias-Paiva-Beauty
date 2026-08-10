@@ -332,14 +332,6 @@
     transition:opacity .4s ease;
   }
   .gallery-item:hover::after{ opacity:1; }
-  .gallery-cap{
-    position:absolute; left:16px; bottom:14px;
-    color:#fff; font-size:0.8rem; font-weight:600;
-    opacity:0; transform:translateY(8px);
-    transition:opacity .4s ease, transform .4s ease;
-    z-index:2;
-  }
-  .gallery-item:hover .gallery-cap{ opacity:1; transform:translateY(0); }
 
   /* ---------- CTA BAND ---------- */
   .cta-band{
@@ -390,9 +382,6 @@
     .gallery-item:nth-child(1){ grid-column:span 2; grid-row:span 2; }
     .gallery-item:nth-child(6){ grid-row:span 1; }
     section{ padding:72px 0; }
-    /* hover reveals don't work on touch, so keep captions visible */
-    .gallery-cap{ opacity:1; transform:translateY(0); }
-    .gallery-item::after{ opacity:1; background:linear-gradient(180deg, transparent 45%, rgba(43,30,51,0.5) 100%); }
   }
 
   @media (max-width: 520px){
