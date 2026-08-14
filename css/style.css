@@ -378,14 +378,27 @@
   .cta-band .btn-primary{
     background:#fff; color:var(--lilac-deep);
     box-shadow:0 20px 50px -18px rgba(0,0,0,0.3);
+    justify-content:center;
+    width:100%;
   }
 
   .cta-actions{
     display:flex;
     flex-direction:column;
-    align-items:center;
+    align-items:stretch;
     gap:20px;
+    width:100%;
+    max-width:280px;
+    margin:0 auto;
   }
+  .cta-band .google-badge{
+    width:100%;
+    justify-content:center;
+    padding:12px 14px;
+    gap:10px;
+  }
+  .cta-band .google-badge-stars{ font-size:0.82rem; }
+  .cta-band .google-badge-sub{ font-size:0.7rem; }
   .cta-band .btn-primary:hover{ background:var(--plum); color:#fff; }
 
   /* ---------- FOOTER ---------- */

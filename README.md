@@ -1,4 +1,4 @@
-# Alias Paiva Beauty - Landing Page
+# Alias Paiva Beauty
 
 Site portfólio da Alias Paiva Beauty, estúdio de lash design e sobrancelhas em Ipatinga, MG.
 
